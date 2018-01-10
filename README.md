@@ -1,5 +1,4 @@
-Visualize.js
-============
+# Visualize.js
 
 Visualize.js is a JavaScript API framework used to embed JasperReport Server reports & visualizations inside web applications.
 It comes bundled with the commercial editions of TIBCO JasperReports® Server, specifically Jaspersoft AWS, Enterprise or
@@ -10,6 +9,17 @@ Professional (and as an add-on with Jaspersoft Reporting).
 > For greater detail also view the full [Visualize.js API reference guide].
 
 [Download Jaspersoft >][Download JRS]
+
+## Contents
+
+- [Usage](#usage)
+- [Options](#options)
+  - [Sidebar menu](#sidebar-menu)
+  - [Themes](#themes)
+  - [Reverse layout](#reverse-layout)
+- [Development](#development)
+- [Author](#author)
+- [License](#license)
 
 Installing Jaspersoft
 ---------------------
@@ -320,18 +330,6 @@ Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content 
 
 ![Lanyon](https://f.cloud.github.com/assets/98681/1825266/be03f014-71b0-11e3-9539-876e61530e24.png)
 ![Lanyon with open sidebar](https://f.cloud.github.com/assets/98681/1825267/be04a914-71b0-11e3-966f-8afe9894c729.png)
-
-
-## Contents
-
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
 
 
 ## Usage
